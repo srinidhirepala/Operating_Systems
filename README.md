@@ -20,5 +20,4 @@ This is useful for:
 
 ---
 
-## 🗂️ Project Structure
 
